@@ -1,0 +1,26 @@
+{
+  "name": "@jacopofilonzi/ntfy",
+  "version": "0.0.1",
+  "description": "A NodeJS interface library to work with ntfy.sh",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacopofilonzi/Ntfy.git"
+  },
+  "author": "Filonzi Jacopo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacopofilonzi/Ntfy/issues"
+  },
+  "homepage": "https://github.com/jacopofilonzi/Ntfy#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "tsu": "^2.8.0",
+    "typescript": "^5.4.3"
+  }
+}

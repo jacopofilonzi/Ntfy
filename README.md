@@ -1,3 +1,7 @@
+# Warning
+
+**This repository is discontinued, see the new implementation at [github@jacopofilonzi/ntfy.js](https://github.com/jacopofilonzi/Ntfy.JS)**
+
 # Ntfy interface
 >Author: [Filonzi Jacopo](https://www.filonzi.it)
 
